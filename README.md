@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Omar Smith</h1>
-<div align="center> <imag src="[https://raw.githubusercontent.com/GOSS-hash/GOSS-hass/](https://user-images.githubusercontent.com/74038190/212897782-96581536-54a0-4b87-87b4-5e55f95e8a8b.gif)
+<div align="center> <imag src="https://user-images.githubusercontent.com/74038190/212897782-96581536-54a0-4b87-87b4-5e55f95e8a8b.gif"> </div>
 <h3 align="center">A passionate Insights Architect Transforming Data into Value: Data Scientist & ML Engineer Driving Brand Success through AI/ML Innovations</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=goss-hash&label=Profile%20views&color=0e75b6&style=flat" alt="goss-hash" /> </p>
