@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Omar Smith</h1>
-<div align="center> <img src="https://api.iconscout.com/v3/lottie/render?icon=doodle-2&height=64&fill=%2333BEB8&loop=1" alt="github-1" width="48">](https://iconscout.com/lottie-animations/developer-tool) by [<img src="https://iconscout.com/logo/logo-193" alt="Unicons Font" width="48">](https://iconscout.com/contributors/unicons) on [<img src="https://iconscout.com/logo/logo-146" alt="IconScout" width="48"> (https://iconscout.com)
+<div align="center> <imag src="[https://raw.githubusercontent.com/GOSS-hash/GOSS-hass/](https://user-images.githubusercontent.com/74038190/212897782-96581536-54a0-4b87-87b4-5e55f95e8a8b.gif)
 <h3 align="center">A passionate Insights Architect Transforming Data into Value: Data Scientist & ML Engineer Driving Brand Success through AI/ML Innovations</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=goss-hash&label=Profile%20views&color=0e75b6&style=flat" alt="goss-hash" /> </p>
