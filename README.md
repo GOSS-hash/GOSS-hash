@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Omar Smith</h1>
-<h3 align="center">A passionate Insights Architect Transforming Data into Value: Data Scientist & ML Engineer Driving Brand Success through AI/ML Innovations</h3>
+<h3 align="center">A passionate Insights Architect Transforming Data into Value: Data Scientist & ML Engineer Driving Brand Success through AI/ML/GenAI Innovations</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=goss-hash&label=Profile%20views&color=0e75b6&style=flat" alt="goss-hash" /> </p>
 
