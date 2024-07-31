@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **spomar36@gmail.com**
 
-- ⚡ Fun fact **Driven by the quest for knowledge, I'm intrigured by the subtle nuances that dictatate our reality**
+- ⚡ Fun fact **Driven by the quest for knowledge, I'm intrigured by the subtle nuances that dictatate our reality for example how the conscious/subconscious of the brain, the heart and feelings influence the creation our daily interaction as we see it **
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
