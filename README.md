@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=goss-hash&label=Profile%20views&color=0e75b6&style=flat" alt="goss-hash" /> </p>
 
-- 🌱 I’m currently learning **LLM's and optimizing traditional ML techniques**
+- 🌱 I most recently got certified to design and consult around **LLM's and optimizing traditional ML techniques**
 
 - 👨‍💻 All of my projects are available at [https://github.com/GOSS-hash](https://github.com/GOSS-hash)
 
